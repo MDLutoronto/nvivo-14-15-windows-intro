@@ -1,10 +1,10 @@
 ---
-title: Introduction to NVivo 14/15 for Windows | Map and Data Library
+title: Introduction to NVivo 14/15 for Windows 
 layout: home
 description: 
 ---
 
-# Introduction to NVivo 14/15 for Windows | Map and Data Library
+# Introduction to NVivo 14/15 for Windows 
 
 This is a beginner level tutorial for NVivo 14 or 15 for Windows (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2\.
 
