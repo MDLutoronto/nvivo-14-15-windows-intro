@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Save the Project
 parent: Part 1 - The Basics
-nav_order: 1
+nav_order: 8
 layout: default
 ---
 Save the Project

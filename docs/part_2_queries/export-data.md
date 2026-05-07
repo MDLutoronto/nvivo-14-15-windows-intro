@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Export Data
 parent: Part 2 - Queries
-nav_order: 1
+nav_order: 4
 layout: default
 ---
 Export Data

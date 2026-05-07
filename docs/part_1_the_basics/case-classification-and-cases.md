@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Case Classification and Cases
 parent: Part 1 - The Basics
-nav_order: 1
+nav_order: 7
 layout: default
 ---
 Case Classification and Cases

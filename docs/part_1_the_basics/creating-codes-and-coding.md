@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Creating Codes and Coding
 parent: Part 1 - The Basics
-nav_order: 1
+nav_order: 4
 layout: default
 ---
 Creating Codes and Coding

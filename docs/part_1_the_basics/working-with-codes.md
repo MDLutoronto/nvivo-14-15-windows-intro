@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Working with Codes
 parent: Part 1 - The Basics
-nav_order: 1
+nav_order: 5
 layout: default
 ---
 Working with Codes
