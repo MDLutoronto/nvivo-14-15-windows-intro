@@ -82,6 +82,6 @@ Using the Explore menu option run a Coding query for the project to find intervi
 
 (Hint: You will have to change an option to say Any instead of All to satisfy the “or” condition, different than in the demonstration.)
 
-Click [here](/part_2_queries/test-your-understanding-answers) for the answers.
+Click [here](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/part_2_queries/test-your-understanding-answers) for the answers.
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
