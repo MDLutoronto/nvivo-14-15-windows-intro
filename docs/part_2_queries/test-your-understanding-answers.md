@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Test Your Understanding Answers
 parent: Part 2 - Queries
-nav_order: 1
+nav_order: 5
 layout: default
 ---
 Test your Understanding Answers

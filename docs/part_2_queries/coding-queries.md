@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Coding Queries
 parent: Part 2 - Queries
-nav_order: 1
+nav_order: 2
 layout: default
 ---
 Coding Queries

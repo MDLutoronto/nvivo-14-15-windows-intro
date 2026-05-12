@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Matrix Coding and Crosstab Queries
 parent: Part 2 - Queries
-nav_order: 1
+nav_order: 3
 layout: default
 ---
 Matrix Coding and Crosstab Queries

@@ -8,7 +8,7 @@ maintainer:
       link: https://library.utoronto.ca/staff/kelly-schultz
 title: Import Data
 parent: Part 1 - The Basics
-nav_order: 1
+nav_order: 3
 layout: default
 ---
 Import Data
