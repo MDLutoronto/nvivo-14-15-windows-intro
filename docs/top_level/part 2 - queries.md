@@ -11,6 +11,7 @@ nav_order: 2
 layout: default
 has_children: true 
 has_toc: false
+parent: Introduction to NVivo 14/15 for Windows 
 ---
 
 Part 2 \- Queries
