@@ -10,15 +10,15 @@ title: Creating a New Project
 parent: Part 1 - The Basics
 nav_order: 1
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Windows 
+grand_parent: Introduction to NVivo 15 for Windows 
 ---
 
 Creating a New Project
 ----------------------
 
-1. First start up NVivo 14 or 15. From the main screen you can start a new project, open some sample projects, and access several resources for learning and using NVivo. We will look at a sample project later. For now, **click on New Project** to get started.
+1. First start up NVivo 15. From the main screen you can start a new project, open some sample projects, and access several resources for learning and using NVivo. We will look at a sample project later. For now, **click on New Project** to get started.
 
-    <img src="{{ '/assets/images/NVivo15_intro_001.png' | relative_url }}" alt='The NVivo 14 main screen with the new project button outlined.' title='' width='1285' height='727' />
+    <img src="{{ '/assets/images/NVivo15_intro_001.png' | relative_url }}" alt='The NVivo 15 main screen with the new project button outlined.' title='' width='1285' height='727' />
 
 2. **Title your project**. For this tutorial we will name ours “NVivoWorkshop”. If you’d like, you can add a description.
 

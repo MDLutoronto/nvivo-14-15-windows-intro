@@ -10,7 +10,7 @@ title: Creating Codes and Coding
 parent: Part 1 - The Basics
 nav_order: 4
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Windows 
+grand_parent: Introduction to NVivo 15 for Windows 
 ---
 Creating Codes and Coding
 -------------------------

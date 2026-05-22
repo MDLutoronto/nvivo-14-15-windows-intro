@@ -11,11 +11,11 @@ nav_order: 1
 layout: default
 has_children: true 
 has_toc: false
-parent: Introduction to NVivo 14/15 for Windows 
+parent: Introduction to NVivo 15 for Windows
 ---
 Part 1 \- The Basics
 =================
 
-In the first part of this tutorial will go over the basics of navigating the NVivo interface, creating a new project and importing data, creating and working with codes, note taking using memos, and cases and case classifications. 
+In the first part of this tutorial we will go over the basics of navigating the NVivo interface, creating a new project and importing data, creating and working with codes, note taking using memos, and cases and case classifications. 
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo) 

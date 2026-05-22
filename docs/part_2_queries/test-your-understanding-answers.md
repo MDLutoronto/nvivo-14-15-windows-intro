@@ -10,7 +10,7 @@ title: Test Your Understanding Answers
 parent: Part 2 - Queries
 nav_order: 5
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Windows 
+grand_parent: Introduction to NVivo 15 for Windows 
 ---
 Test your Understanding Answers
 -------------------------------

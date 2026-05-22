@@ -9,6 +9,7 @@ maintainer:
 title: Resources to Learn More
 nav_order: 3
 layout: default
+parent: Introduction to NVivo 15 for Windows
 ---
 Resources to Learn More
 -----------------------

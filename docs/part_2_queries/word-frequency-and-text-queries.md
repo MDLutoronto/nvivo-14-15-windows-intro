@@ -10,7 +10,7 @@ title: Word Frequency and Text Queries
 parent: Part 2 - Queries
 nav_order: 1
 layout: default
-grand_parent: Introduction to NVivo 14/15 for Windows 
+grand_parent: Introduction to NVivo 15 for Windows 
 ---
 Word Frequency and Text Queries
 -------------------------------
