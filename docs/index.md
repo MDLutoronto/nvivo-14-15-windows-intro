@@ -1,7 +1,7 @@
 ---
 title: Introduction to NVivo 14/15 for Windows 
 layout: home
-description: This is a beginner level tutorial for NVivo 14 or 15 for Windows (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2.
+description: This is a beginner level tutorial for NVivo 14 or 15 for Windows (the versions are similar). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2.
 created_date: 2023-11-20
 staff:
     - name: Kelly Schultz
@@ -16,13 +16,13 @@ has_toc: false
 
 # Introduction to NVivo 14/15 for Windows 
 
-This is a beginner level tutorial for NVivo 14 or 15 for Windows (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, and coding with codes. Part 2 will explore the different types of queries you can run in NVivo. If you already have a grasp of the basics and are just interested in learning about queries, you can jump right to Part 2\.
+This is a beginner level tutorial for NVivo 14 or 15 for Windows (the versions are almost identical). The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, coding, note taking, and cases. Part 2 will explore the different types of queries you can run in NVivo and exporting your work out. If you already have a grasp of the basics and are just interested in learning about more advancted topics, such as queries, you can jump right to Part 2\.
 
 Before you begin, make sure you have NVivo 14 or 15 installed. If you don’t, [follow these instructions to request a free license key and install the software](https://mdlutoronto.github.io/nvivo-15-windows-install-license/).
 
 You’ll also need to download some datasets that we’ve provided for this tutorial. Create a new folder on your computer to store the tutorial files. Download [this zip file containing all the datasets you will need for the tutorial](https://maps.library.utoronto.ca/workshops/NVivoOnline/Windows/WorkshopFiles.zip) to that new folder. Finally, extract the files into that new folder.
 
-This tutorial is adapted from a recorded NVivo 12 workshop, which you can view [here](https://play.library.utoronto.ca/watch/236b6b5e62ca4978dfd7acb16491e93b).
+This tutorial is adapted from a recorded NVivo 15 workshop, which you can view [here](https://mdlutoronto.github.io/workshop-intro-nvivo-qualitative-nov-12-2024/).
 
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)    
