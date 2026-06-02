@@ -17,7 +17,7 @@ Creating Codes and Coding
 
 One of the main tasks NVivo is used for is coding. NVivo has a Codes section from the left menu, but if you expand it, you will see folders such as Codes, Sentiment, etc. These codes act like containers to hold all the references to that code.
 
-If you have already decided upon codes ahead of time (following a deductive approach to coding), you can add these codes to NVivo and then start using them. Other times, as mentioned, you will be reading your materials in NVivo and creating codes as you go (an inductive approach to coding). And sometimes you will do a combination of this, where you have a rough idea of some codes you expect to see, but then new codes might emerge for you as your read through the materials. For this example, let’s try this combo method. First, we will create a few codes that we will use to code our materials, and then I will show you how to create codes on the fly as you are reading.
+If you have already decided upon codes ahead of time (following a deductive approach to coding), you can add these codes to NVivo and then start using them. Other times, you will be reading your materials in NVivo and creating codes as you go (an inductive approach to coding). And sometimes you will do a combination of this. For this example, first, we will create a few codes that we will use to code our materials, and then I will show you how to create codes on the fly as you are reading.
 
 1. From the Codes section on the left, **right click on the Codes folder** and **select New Code**.
 
@@ -39,7 +39,7 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     <img src="{{ '/assets/images/NVivo15_intro_028.png' | relative_url }}" alt='Main window with nodes opened. Red box around the two nodes.' title='' width='887' height='590' />
 
-6. Now that we have a couple codes, let’s use them to do some coding. To open up one of our imported files, from the left menu, **under Files**, **go to the Interview folder, and double click on the first interview transcript** to open it in NVivo.
+6. Now that we have a couple codes, let’s use them to do some coding. To open up one of our imported files, from the left menu, **under Files**, **go to the Interview folder, and double click on the interview transcript called "Data Center Interview Transcript dec4_2014 2_02pm"** to open it in NVivo.
 
     <img src="{{ '/assets/images/NVivo15_intro_029.png' | relative_url }}" alt='Rex box around the interview folder in the left menu and around the first interview.' title='' width='1045' height='580' />
 
@@ -83,7 +83,7 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     <img src="{{ '/assets/images/NVivo15_intro_038.png' | relative_url }}" alt='Red box around the Focus groups folder and Questionnaire 7.' title='' width='781' height='577' />
 
-16. This PDF file has been OCR’ed, meaning you can select text and code it as we have done before. **Try selecting some text**.
+16. This PDF file has been OCR’ed, meaning you can select text and code it as we have done before. **Try selecting some text and coding it**.
 
     <img src="{{ '/assets/images/NVivo14_intro_039.PNG' | relative_url }}" alt='Questionnaire 7 with some text selected.' title='' width='951' height='716' />
 
@@ -95,7 +95,7 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     <img src="{{ '/assets/images/NVivo15_intro_041.png' | relative_url }}" alt='The region button in the pdf tools menu is highlighted.' title='' width='748' height='87' />
 
-19. Draw a box to select part of the PDF. You will then be able to code this part as normal by right clicking on the box and selecting **Code Selection...** Generally, though, it is better to make sure that any PDFs you import into NVivo are OCR’ed for ease of coding. This will also be important when running queries, which we will look at later. For now, close these two PDFs.
+19. Draw a box to select part of the PDF. You will then be able to code this part as normal by right clicking on the box and selecting **Code Selection... and code as we have done before** Generally, though, it is better to make sure that any PDFs you import into NVivo are OCR’ed for ease of coding. This will also be important when running queries, which we will look at later. For now, close these two PDFs.
 
     <img src="{{ '/assets/images/NVivo14_intro_042.PNG' | relative_url }}" alt='Region box around text with a context menu has the code option highlighted.' title='' width='957' height='539' />
 

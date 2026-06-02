@@ -18,7 +18,7 @@ has_toc: false
 
 This is a beginner level tutorial for NVivo 15 for Windows. The goal of this tutorial is to learn about the basic features in NVivo that will allow you to organize and analyze qualitative data. Part 1 will go over the basics of navigating the NVivo interface, importing data, coding, note taking, and cases. Part 2 will explore the different types of queries you can run in NVivo and exporting your work. If you already have a grasp of the basics and are just interested in learning about more advanced topics, such as queries, you can jump right to Part 2\.
 
-Before you begin, make sure you have NVivo 15 installed. If you don’t, [follow these instructions to request a free license key and install the software](https://mdlutoronto.github.io/nvivo-15-windows-install-license/). *Note: It is recommended to stay on NVivo 15.2 for now and not upgrade to later versions.*
+Before you begin, make sure you have NVivo 15 installed. If you don’t, [follow these instructions to request a free license key and install the software](https://mdlutoronto.github.io/nvivo-15-windows-install-license/).
 
 You’ll also need to download some datasets that we’ve provided for this tutorial. Create a new folder on your computer to store the tutorial files. Download [this zip file containing all the datasets you will need for the tutorial](https://maps.library.utoronto.ca/workshops/NVivoOnline/Windows/WorkshopFiles.zip) to that new folder. Finally, extract the files into that new folder.
 

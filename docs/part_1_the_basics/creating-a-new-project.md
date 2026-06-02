@@ -24,7 +24,7 @@ Creating a New Project
 
     <img src="{{ '/assets/images/NVivo15_intro_002.png' | relative_url }}" alt='Project save window. Title field outlined.' title='' width='648' height='407' />
 
-3. Next, **browse to where you want to save the project file**. Let’s save it in our workshop folder that holds our downloaded workshop files.
+3. Next, **browse to where you want to save the project file**. Let’s save it on our desktop for now.
 
     <img src="{{ '/assets/images/NVivo15_intro_003.png' | relative_url }}" alt='Project save window. File Browse outlined.' title='' width='643' height='405' />
 
@@ -32,7 +32,7 @@ Creating a New Project
 
     <img src="{{ '/assets/images/NVivo15_intro_004.png' | relative_url }}" alt='Project save window. Box checked for keep a log of user actions..' title='' width='646' height='406' />
 
-5. The next page has some save and recovery settings. We can keep the defaults, so finally **select Create Project** to create your new project.
+5. Finally **select Create Project** to create your new project.
 
     <img src="{{ '/assets/images/NVivo14_intro_005.PNG' | relative_url }}" alt='Project save window. Box checked for create project. ' title='' width='650' height='408' />
 

@@ -29,12 +29,23 @@ Explore the Interface
 4. NVivo will ask you to save your project every 15 minutes. But if you want to save it manually, create or open a new project, get help or change your program settings, you can use the File menu at the top left.
 
     <img src="{{ '/assets/images/NVivo15_intro_008.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
+    <img src="{{ '/assets/images/NVivo15_intro_008b.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
 
-5. If you **select File**, and **then Product Info**, you will see an option for **Manage License**, where you can update your license key, when you receive a new one.
+5. If you **select Project Properties**, you will see a tab for **Save and Recovery**, where you can check if autosave is turned on and where your automatic backup files are saving. 
+
+    <img src="{{ '/assets/images/NVivo15_intro_008c.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
+    <img src="{{ '/assets/images/NVivo15_intro_008d.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
+
+6. Make note of these settings as they are important to your work. If autosave is turned on, NVivo will autosave frequently, but then you can't use the Undo feature. If NVivo crashes and your project file gets corrupted, knowing you have backup files and where they are located is essential. We can keep the defaults for now (i.e., autosave is turned off, backups are saving in an NVivo Recovery folder in your Documents folder), so **click Cancel**. 
+
+    <img src="{{ '/assets/images/NVivo15_intro_008e.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
+    <img src="{{ '/assets/images/NVivo15_intro_008f.png' | relative_url }}" alt='Red box around the file menu in the top ribbon.' title='' width='1511' height='846' />
+
+7. If you **select File**, and **then Product Info**, you will see an option for **Manage License**, where you can update your license key, when you receive a new one.
 
     <img src="{{ '/assets/images/NVivo15_intro_009.png' | relative_url }}" alt='File menu screen with the product info tab and manage license outlined.' title='' width='752' height='396' />
 
-6. **Click on the top left arrow** to get back to NVivo’s main screen.
+8. **Click on the top left arrow** to get back to NVivo’s main screen.
 
     <img src="{{ '/assets/images/NVivo15_intro_010.png' | relative_url }}" alt='Back arrow at the top of the file menu screen outlined.' title='' width='731' height='391' /> 
 
