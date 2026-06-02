@@ -45,6 +45,8 @@ If you have already decided upon codes ahead of time (following a deductive appr
 
     Note: NVivo can open a lot of different file types directly in the tool. The files will be open as read\-only, meaning you can’t edit them. This is intentional to prevent error. However, if you happen to notice an error you want to correct, you can select Edit on the top left. Then you will be able to make changes to the file. You can deselect Edit when you're done to save the edits.
 
+    <img src="{{ '/assets/images/NVivo15_intro_029b.png' | relative_url }}" alt='Rex box around the interview folder in the left menu and around the first interview.' title='' width='1045' height='580' />
+
 7. With the file open, you can then read through it and code. **Highlight some text** you want to code, and then **right click and select Code Selection**.
 
     <img src="{{ '/assets/images/NVivo15_intro_030.png' | relative_url }}" alt='Some interview text selected, with an open context menu and a red box around code.' title='' width='800' height='631' />
