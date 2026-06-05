@@ -47,15 +47,16 @@ You can manually create case classifications and cases by using the left menu, u
 
     <img src="{{ '/assets/images/NVivo15_intro_084.png' | relative_url }}" alt='Import Classification Window with Finish outlined in red.' title='' width='513' height='596' />
 
-7. Using the left menu, **under Cases, select Cases** to see our newly created cases. These cases can now be used in coding the same way codes are used.
+7. Our case classification (i.e., our imported spreadsheet) should be displayed. Using the left menu, **under Cases, select Cases** to see our newly created cases. These cases can now be used in coding the same way codes are used.
 
+    <img src="{{ '/assets/images/NVivo15_intro_085a.png' | relative_url }}" alt='Left menu Cases opened and a red box around the Cases list.' title='' width='705' height='588' />
     <img src="{{ '/assets/images/NVivo15_intro_085.png' | relative_url }}" alt='Left menu Cases opened and a red box around the Cases list.' title='' width='705' height='588' />
 
-8. We can take advantage of NVivo’s autocoding features to allow us to identify the interviewee’s responses in a file and code them automatically into the appropriate case. **Using the left menu, under Data \> Files, go to the Interviews folder and right click on the interview transcript titled “Data Center Interview Transcript oct3\_2014”. Select Autocode…**
+8. We can take advantage of NVivo’s autocoding features to allow us to identify the interviewee’s responses in a file and code them automatically into the appropriate case. **Using the left menu, under Data \> Files, go to the Interviews folder and right click on the interview transcript called “Data Center Interview Transcript oct3\_2014”. Select Autocode…**
 
     <img src="{{ '/assets/images/NVivo15_intro_086.png' | relative_url }}" alt='In the interviews folder, a context menu for the last transcript is open with Auto Code... highlighted.' title='' width='845' height='746' />
 
-9. You are presented with a wizard with different autocoding features that I encourage you to explore on your own. For now, let’s **select Speaker name**. This is going to automatically code text based on speaker name. Then **click on Next**.
+9. You are presented with a wizard with different autocoding features. I encourage you to explore some of them on your own. For now, let’s **select Speaker name**. This is going to automatically code text based on speaker name. Then **click on Next**.
 
     <img src="{{ '/assets/images/NVivo15_intro_087.png' | relative_url }}" alt='Auto Code Wizard Window with the Speaker name option selected and outlined in red. The Next button is highlighted.' title='' width='621' height='598' />
 
