@@ -73,15 +73,14 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_intro_058.png' | relative_url }}" alt='In the Interviews Folder, the first file is highlighted.' title='' width='977' height='310' />
 
-16. **From the menu at the top of the Document, select the Coding Stripes drop\-down menu** and **pick All**.
+16. **From the menu at the top of the Document, select the Coding Stripes drop\-down menu** and **pick All**. **Select the Coding Stripes drop\-down menu** again and **pick Automatic Colors**. It will automatically select colours to differentiate the codes. You should see coloured stripes along the right to tell you what parts of the document have been coded and how. 
 
-    <img src="{{ '/assets/images/NVivo15_intro_059.png' | relative_url }}" alt='In the Document Tools ribbon, the Coding Stripes drop-down menu is open and All Coding is outlined in red.' title='' width='835' height='466' />
+    <img src="{{ '/assets/images/NVivo15_intro_059.png' | relative_url }}" alt='In the Document Tools ribbon, the Coding Stripes drop-down menu is open and All Coding and Automatic Colors is outlined in red and the coding stripes are highlighted on the right.' title='' width='835' height='466' />
 
-17. It will automatically select colours to differentiate the codes. You should see coloured stripes along the right to tell you what parts of the document have been coded and how. Note: You can customize the colours by right clicking on each code and selecting Color, and then picking your colour of choice. After you've set up all your colours, click anywhere on the text of the interview, select the Coding Stripes drop\-down menu, and pick Item Colors instead of leaving Automatic Colors selected.
+17. Note: You can customize the colours by right clicking on each code and selecting Color, and then picking your colour of choice. After you've set up all your colours, click anywhere on the text of the interview, select the Coding Stripes drop\-down menu, and pick Item Colors instead of leaving Automatic Colors selected.
 
+    <img src="{{ '/assets/images/NVivo15_intro_060a.png' | relative_url }}" alt='Coding stipes and Item Colors in drop-down menu highlighted in red.' title='' width='832' height='480' />
     <img src="{{ '/assets/images/NVivo15_intro_060.png' | relative_url }}" alt='Coding stipes and Item Colors in drop-down menu highlighted in red.' title='' width='832' height='480' />
-
-    <img src="{{ '/assets/images/NVivo15_intro_061.png' | relative_url }}" alt='Code stripes colours shown to the right of the interview transcript.' title='' width='1022' height='1151' />
 
 18. Next, **from the menu at the top of the Document, select the View drop\-down menu** and pick **All Coding under Highlight**.
 
