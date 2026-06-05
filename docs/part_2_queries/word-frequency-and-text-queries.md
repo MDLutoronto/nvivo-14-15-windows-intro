@@ -81,13 +81,11 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_017.png' | relative_url }}" alt='Word Frequency Results for a single word.' title='' width='749' height='699' />
 
-17. Word frequency lists normally ignore stop words, which are really common words that wouldn’t be useful to analysis. For English, these are words like “a,” “the,” “and,” etc. When you’re looking at this list of results, if you see a word that doesn’t really have much meaning in this context, such as “things,” you could add it to the stop words list and re\-run the query so it’ll ignore it. To do this, **right click on “things”** and **select Add To Stop Words List**. As we had stemming turned on, it presents you with all the words you’ll be adding to the Stop Words list to check. You can remove individual words from this list if you want. When you’re ready, **click on OK**. Then **click on Run Query** at the top right to re\-run the query. You should see that **“things” is now missing from the list**.
+17. Word frequency lists normally ignore stop words, which are really common words that wouldn’t be useful to analysis. For English, these are words like “a,” “the,” “and,” etc. When you’re looking at this list of results, if you see a word that doesn’t really have much meaning in this context, such as “things,” you could add it to the stop words list and re\-run the query so it’ll ignore it. To do this, **right click on “things”** and **select Add To Stop Words List**. As we had stemming turned on, it presents you with all the words you’ll be adding to the Stop Words list to check. You can remove individual words from this list if you want, but let's keep them both for now and **click on OK**. Then **click on Run Query** at the top right to re\-run the query. You should see that **“things” is now missing from the list**.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_018.png' | relative_url }}" alt='In the results summary, context menu for the word Things open, with the Add To Stop Words option highlighted. Red box around Run Query.' title='' width='752' height='555' />
 
-    <img src="{{ '/assets/images/NVivo15_intro_pt2_019_0.png' | relative_url }}" alt='Things higlighted in Words to add list and Remove highlighted.' title='' width='291' height='280' />
-
-    <img src="{{ '/assets/images/NVivo15_intro_pt2_020.png' | relative_url }}" alt='things removed from list. OK highlighted.' title='' width='301' height='282' />
+    <img src="{{ '/assets/images/NVivo15_intro_pt2_019_0.png' | relative_url }}" alt='Displaying words that will be added to stop word list.' title='' width='291' height='280' />
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_021_0.png' | relative_url }}" alt='Run Query highlighted.' title='' width='753' height='706' />
 
@@ -113,9 +111,9 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/WordText_21.png' | relative_url }}" alt='Save As window in the workshop folder.' title='' width='1184' height='712' />
 
-22. If we then go back to the query results tab, on the right hand side, you will see 4 tabs. We are in the summary tab.**Click on Word Cloud**.
+22. If we then go back to the query results tab, on the right hand side, you will see 4 tabs. We are in the summary tab. **Click on Word Cloud**.
 
-<img src="{{ '/assets/images/NVivo15_intro_pt2_029.png' | relative_url }}" alt='Red box around the four tabs on the right of the results.' title='' width='756' height='667' />
+    <img src="{{ '/assets/images/NVivo15_intro_pt2_029.png' | relative_url }}" alt='Red box around the four tabs on the right of the results.' title='' width='756' height='667' />
 
 23. This shows the most frequent words, where the larger the word is, the more frequently it occurs, which is a common way to display this type of result. (Might take a few seconds to load).
 
@@ -129,7 +127,7 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_032.png' | relative_url }}" alt='Context menu on the word cloud with the Export Word Cloud... option outlined in red.' title='' width='756' height='664' />
 
-26. **Go back to the word frequency query results window**. **Click on the third tab, Tree Map**. A Tree Map is an alternative visualization for word frequencies. The size of the rectangle is proportional to the frequency, and the most frequent word will always be found in the top left corner, and the least frequent will be in the bottom right corner. Tree maps are more commonly used to show parts to whole with hierarchies (so a more complex rectangular pie chart), so then are not ideal for visualizing word frequency.
+26. **Go back to the word frequency query results window**. **Click on the third tab, Tree Map**. A Tree Map is an alternative visualization for word frequencies. The size of the rectangle is proportional to the frequency, and the most frequent word will always be found in the top left corner, and the least frequent will be in the bottom right corner. Tree maps are more commonly used to show parts to whole with hierarchies (so a more complex rectangular pie chart), so they are not ideal for visualizing word frequency.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_033.png' | relative_url }}" alt='Red box around the Tree Map tabs on the right of the results.' title='' width='755' height='664' />
 
@@ -147,7 +145,7 @@ Word Frequency and Text Queries
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_036.png' | relative_url }}" alt='In the Ribbon, under the explore tab, Text Search is outlined in red.' title='' width='1044' height='115' />
 
-30. You can use it to find a word or phrase. You can search for phrases by putting them in quotation marks. Let’s try looking for mentions of "family". **Type “family” in the search box and choose With stemmed words**, so that it will also search for “families” similar to what we did in the Word Frequency query. Note: You can run more complicated searches using [operators](https://help-nv.qsrinternational.com/14/win/Content/queries/special-characters-operators.htm).
+30. You can use it to find a word or phrase. You can search for phrases by putting them in quotation marks. Let’s try looking for mentions of "family". **Type “family” in the search box and choose With stemmed words**, so that it will also search for “families” similar to what we did in the Word Frequency query. Note: You can run more complicated searches using [operators](https://help-nv.qsrinternational.com/15/win/Content/queries/special-characters-operators.htm).
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_037.png' | relative_url }}" alt='In the Text Search Query window, the search field is outlined in red and completed with family. A red box is around the With stemmed words option.' title='' width='877' height='261' />
 
