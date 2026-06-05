@@ -29,13 +29,13 @@ Coding Queries
 
 5. Select**“Memorable quote” and “Real estate development.”** Then **click OK**.
 
-    <img src="{{ '/assets/images/NVivo15_intro_pt2_055.png' | relative_url }}" alt='Select Project Items Window with the Nodes folder open and Memorable quotes and Real Estate development selected and outlined in red. Red box around OK.' title='' width='882' height='611' />
+    <img src="{{ '/assets/images/NVivo15_intro_pt2_055.png' | relative_url }}" alt='Select Project Items Window with the Codes folder open and Memorable quotes and Real Estate development selected and outlined in red. Red box around OK.' title='' width='882' height='611' />
 
 6. Now let’s **click on Run Query** to see the results.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_056.png' | relative_url }}" alt='In the Coding Query Results Preview Window, a red box around Run Query.' title='' width='893' height='262' />
 
-7. You are shown all the results, but you can also click on the Summary tab to see how many results you got. We can see there are a few results in interviews and survey responses.
+7. You are shown all the results in the References tab, but you can also click on the Summary tab on the right to see how many results you got. We can see there are a few results in interviews and survey responses.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_057.png' | relative_url }}" alt='In the Coding Query window, a red box outlines the Summary tab.' title='' width='893' height='483' />
 
@@ -55,7 +55,7 @@ Coding Queries
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_061.png' | relative_url }}" alt='Select Project Items Window with the Case Classifications folder open and township outlined in red.' title='' width='886' height='454' />
 
-12. **From the far right drop\-down, select “Marshallberg.”** (You might have to scroll to the right to see this.) So the query says “All” at the top left, meaning all of these conditions must be true. Then one line says that the content must be coded with both nodes, Memorable quotes and Real estate, and then the other line says AND the person who said this must be from Marshallberg.
+12. **From the far right drop\-down, select “Marshallberg.”** (You might have to scroll to the right to see this.) So the query says “All” at the top left, meaning all of these conditions must be true. Then one line says that the content must be coded with both codes, Memorable quotes and Real estate, and then the other line says AND the person who said this must be from Marshallberg.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_062.png' | relative_url }}" alt='Red box around the open dropdown menu beside equals value, with Marshallberg selected.' title='' width='1028' height='396' />
 
@@ -71,7 +71,7 @@ Coding Queries
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_065.png' | relative_url }}" alt='Coding Query Window, with the name field completed and outlined in red. Red box around OK.' title='' width='554' height='547' />
 
-16. You can find this query now savedif you go to the left menu, **under Queries, select Query Criteria**. You can double click on it at any time to re\-run the query.
+16. You can find this query now saved if you go to the left menu, **under Queries, select Query Criteria**. You can double click on it at any time to re\-run the query.
 
     <img src="{{ '/assets/images/NVivo15_intro_pt2_066_0.png' | relative_url }}" alt='In the left menu, under Queries, a red box around Query Critera. In the Queries list, a red box around Mashallberg Quotes on Real Estate.' title='' width='1420' height='873' />
 
@@ -79,7 +79,7 @@ Coding Queries
 
 ### Test Your Understanding 2
 
-Using the Explore menu option run a Coding query for the project to find interview content coded as “Infrastructure,” “Policy, management,” OR “Real estate development” where the interviewees are from Harkers Island. How many references did you find?
+Using the Explore menu option run a Coding query for the project to find **interview** content coded as **“Infrastructure,” “Policy, management,” OR “Real estate development”** where the interviewees are from **Harkers Island**. How many references did you find?
 
 (Hint: You will have to change an option to say Any instead of All to satisfy the “or” condition, different than in the demonstration.)
 
