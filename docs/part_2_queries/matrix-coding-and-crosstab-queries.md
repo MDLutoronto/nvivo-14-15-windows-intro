@@ -15,7 +15,7 @@ grand_parent: Introduction to NVivo 15 for Windows
 Matrix Coding and Crosstab Queries
 ----------------------------------
 
-1. Next up are Matrix Coding queries. These allow you to see coding intersections between two lists of items. It is called Matrix Coding Query in the Explore Ribbon or described as “Find coding intersections between two lists of items” in the Query Wizard. So for example, let’s say you want to see which interviewees (based on cases) had the most positive and negative attitudes (based on coding) \- you can do this with a Matrix Coding query. **Go to the Explore menu and select Matrix Coding Query**.
+1. Next up are Matrix Coding queries. These allow you to see coding intersections between two lists of items. It is called Matrix Coding Query in the Explore Ribbon menu or described as “Find coding intersections between two lists of items” in the Query Wizard. So for example, let’s say you want to see which interviewees (based on cases) had the most positive and negative attitudes (based on coding) \- you can do this with a Matrix Coding query. **Go to the Explore menu and select Matrix Coding Query**.
 
     <img src="{{ '/assets/images/MatrixCrosstab_1.png' | relative_url }}" alt='In the top Ribbon, under the explore tab, a red box around Matrix Coding Query.' title='' width='1017' height='123' />
 
