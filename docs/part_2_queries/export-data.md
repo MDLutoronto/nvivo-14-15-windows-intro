@@ -36,7 +36,7 @@ Export Data
     <img src="{{ '/assets/images/NVivo15_intro_pt2_091_0.png' | relative_url }}" alt='Export Codebook window with a red box around OK.' title='' width='392' height='442' />
 
     Here is what the Codebook file looks like:
-    
+
     <img src="{{ '/assets/images/NVivo15_intro_pt2_091_0b.png' | relative_url }}" alt='Codebook displayed as a word file with code name, description, and counts in a table.' title='' width='392' height='442' />
 
 5. Finally, you can also export all the references for a particular set of codes. To do this, first **select your subset of codes**. For example, select Balance and Community Change.
@@ -54,7 +54,7 @@ Export Data
     Here is the resulting file from the Reference View selection:
     <img src="{{ '/assets/images/Exporting_7b.png' | relative_url }}" alt='Word document showing some of the references to the code Balance' title='' width='432' height='605' />
 
-    Here is the resulting file from the Summery View selection:
+    Here is the resulting file from the Summary View selection:
     <img src="{{ '/assets/images/Exporting_7c.png' | relative_url }}" alt='Excel file showing the project items associated with the code Balance.' title='' width='432' height='605' />
 
 And that's it!
