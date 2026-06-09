@@ -24,6 +24,7 @@ Export Data
     <img src="{{ '/assets/images/Exporting_2_0.png' | relative_url }}" alt='Save As window with the File name field completed and a red box around Save.' title='' width='1185' height='710' />
 
     Here is what the resulting file looks like:
+
     <img src="{{ '/assets/images/Exporting_2_0b.png' | relative_url }}" alt='Excel file displaying the code list with file and reference counts.' title='' width='1185' height='710' />
 
 3. You can also export your codebook, which lists your codes and their descriptions to understand when a code is normally used. Again, **go to the Share menu, and from the Export drop\-down menu, select Export Codebook.**
@@ -35,6 +36,7 @@ Export Data
     <img src="{{ '/assets/images/NVivo15_intro_pt2_091_0.png' | relative_url }}" alt='Export Codebook window with a red box around OK.' title='' width='392' height='442' />
 
     Here is what the Codebook file looks like:
+    
     <img src="{{ '/assets/images/NVivo15_intro_pt2_091_0b.png' | relative_url }}" alt='Codebook displayed as a word file with code name, description, and counts in a table.' title='' width='392' height='442' />
 
 5. Finally, you can also export all the references for a particular set of codes. To do this, first **select your subset of codes**. For example, select Balance and Community Change.
