@@ -19,7 +19,7 @@ If you have demographics or other important attributes that you want to incorpor
 
 You can manually create case classifications and cases by using the left menu, under Cases. You can right click on case classification and create a new classification or right click on cases to create a new case. But often times, it is easier and more common to upload a spreadsheet with all the information for the cases. Let’s try that now.
 
-1. For our project, we have a spreadsheet called Interviewees. Open it up in Excel and take a look. It lists our interviewees and their attributes. NVivo would call this a classification sheet. Now close it.
+1. For our project, we have a spreadsheet called Interviewees. Open it up in Excel and take a look. It lists our interviewees and their attributes. Numeric attributes in NVivo work best in queries when they are transformed into categorical variables. You can see examples where experience and size of teams are ranges instead of a number. NVivo would call this a classification sheet. Now close it and go back to NVivo.
 
     <img src="{{ '/assets/images/IntroNVivo1415WindowsExcelFileUpdate.png' | relative_url }}" alt='Excel file showing interviewees and attributes about then, such as Interview title, data centers managed, last major purchase or upgrade, role level, experience, and size of team. All attributes are categorical variables.' title='' width='1972' height='404' />
 
