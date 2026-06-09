@@ -21,6 +21,6 @@ In this second part of the tutorial we will be looking at queries and exporting.
 
 Queries work better for larger projects with a lot of coding already completed, so we’re going to work with the sample project that comes with NVivo for this next section.
 
-This second part of the tutorial will provide you with several interspersed exercises to test your understanding. You can find the answers to these questions at the bottom of the tutorial.
+This second part of the tutorial will provide you with several interspersed exercises to test your understanding. You can find the answers to these questions in a section called [Test your Understanding Answers](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/part_2_queries/test-your-understanding-answers/).
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo) 
