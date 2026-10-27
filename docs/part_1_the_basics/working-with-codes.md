@@ -65,6 +65,13 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_intro_056.png' | relative_url }}" alt='The Sustainability code opened, with grey text above and below each reference. One example outlined in red.' title='' width='784' height='587' />
 
+14. Instead of grouping child codes under a parent code, you may also want to merge two similar codes together. Let’s try that with our codes called Upgrades and Maintenance. I’m going to keep Maintenance and add all the coded segments from Upgrades to it. To do that, I’m going to right click on the Upgrades code and select Cut. Then I’m going to right click on the Maintenance code and select Merge Into Selected Code. Now you can see that Upgrades is gone and its coded segments have been added to Maintenance.
+
+    <img src="{{ '/assets/images/NVivo15_intro_057a.png' | relative_url }}" alt='Right click context menu showing for Upgrades with cut selected.' title='' width='1232' height='702' /> 
+    <img src="{{ '/assets/images/NVivo15_intro_057b.png' | relative_url }}" alt='Right click context menu showing for Maintenance with Merge into Selected Code selected.' title='' width='1232' height='702' /> 
+    <img src="{{ '/assets/images/NVivo15_intro_057c.png' | relative_url }}" alt='Pop-up window with merge options. OK button highlighted.' title='' width='1232' height='702' /> 
+    <img src="{{ '/assets/images/NVivo15_intro_057d.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
+
 14. Another way to get a better idea of how your files are coded is to use coding stripes and highlighting. First, **go to your interviews folder**. You can see how many codes have been applied to the content and how many references in the document have been coded.
 
     <img src="{{ '/assets/images/NVivo15_intro_057.png' | relative_url }}" alt='In the interviews folder, the codes and references columns are outlined.' title='' width='1232' height='702' />
@@ -89,5 +96,7 @@ Working with Codes
 19. You will see the coded text in yellow highlighting.
 
     <img src="{{ '/assets/images/NVivo15_intro_063.png' | relative_url }}" alt='The coded transcript text is highlighted in yellow and outlined with a red box.' title='' width='835' height='387' />
+
+To follow along with the workshop, you may want to also view the instructions for the Text Search query before continuing (starting at step 29 of the [Word Frequencies and Text Queries section](https://mdlutoronto.github.io/nvivo-14-15-windows-intro/part_2_queries/word-frequency-and-text-queries/)), but use the search terms stated in the workshop instead of the tutorial example, which uses a different example.    
 
 **Technique**: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools**: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)   
