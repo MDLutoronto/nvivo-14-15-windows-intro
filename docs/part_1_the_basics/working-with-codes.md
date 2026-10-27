@@ -73,7 +73,7 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_intro_057b.png' | relative_url }}" alt='Right click context menu showing for Maintenance with Merge into Selected Code selected.' title='' width='1232' height='702' /> 
 
-14. A pop-up window will appear. Keep the defaults and **click on OK**. Now you can see that Upgrades is gone and its coded segments have been added to Maintenance.
+14. A pop-up window will appear. Keep the defaults and **click on OK**. Now you can see that Upgrades is gone, and its coded segments have been added to Maintenance.
 
     <img src="{{ '/assets/images/NVivo15_intro_057c.png' | relative_url }}" alt='Pop-up window with merge options. OK button highlighted.' title='' width='1232' height='702' /> 
     <img src="{{ '/assets/images/NVivo15_intro_057d.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
