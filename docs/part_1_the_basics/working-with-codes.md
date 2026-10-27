@@ -65,10 +65,16 @@ Working with Codes
 
     <img src="{{ '/assets/images/NVivo15_intro_056.png' | relative_url }}" alt='The Sustainability code opened, with grey text above and below each reference. One example outlined in red.' title='' width='784' height='587' />
 
-14. Instead of grouping child codes under a parent code, you may also want to merge two similar codes together. Let’s try that with our codes called Upgrades and Maintenance. I’m going to keep Maintenance and add all the coded segments from Upgrades to it. To do that, I’m going to right click on the Upgrades code and select Cut. Then I’m going to right click on the Maintenance code and select Merge Into Selected Code. Now you can see that Upgrades is gone and its coded segments have been added to Maintenance.
+14. Instead of grouping child codes under a parent code, you may also want to merge two similar codes together. Let’s try that with our codes called Upgrades and Maintenance. Let's keep Maintenance and add all the coded segments from Upgrades to it. To do that, **right click on the Upgrades code and select Cut**. 
 
     <img src="{{ '/assets/images/NVivo15_intro_057a.png' | relative_url }}" alt='Right click context menu showing for Upgrades with cut selected.' title='' width='1232' height='702' /> 
+
+14. Then **right click on the Maintenance code and select Merge Into Selected Code**. 
+
     <img src="{{ '/assets/images/NVivo15_intro_057b.png' | relative_url }}" alt='Right click context menu showing for Maintenance with Merge into Selected Code selected.' title='' width='1232' height='702' /> 
+
+14. A pop-up window will appear. Keep the defaults and **click on OK**. Now you can see that Upgrades is gone and its coded segments have been added to Maintenance.
+
     <img src="{{ '/assets/images/NVivo15_intro_057c.png' | relative_url }}" alt='Pop-up window with merge options. OK button highlighted.' title='' width='1232' height='702' /> 
     <img src="{{ '/assets/images/NVivo15_intro_057d.png' | relative_url }}" alt='Code list showing the new number of references for Maintenance.' title='' width='1232' height='702' />
 
